@@ -1,0 +1,5 @@
+.idea
+SpringMicroservice/Customer/target
+SpringMicroservice/Fraud/target
+SpringMicroservice/ServiceRegistry/target
+/**/*.iml
