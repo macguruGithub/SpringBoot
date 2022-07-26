@@ -1,4 +1,4 @@
-package org.example;
+package org.customer;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.AllArgsConstructor;
